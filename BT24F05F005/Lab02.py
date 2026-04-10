@@ -1,6 +1,7 @@
 # Practical 2 — Create a Simple Hello World Program Using Python
 # Aim: To create a simple Hello World program using Python.
 
+
 # Basic output
 print("Hello, World!")
 

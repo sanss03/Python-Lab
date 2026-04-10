@@ -1,6 +1,7 @@
 # Practical 6 — Studying Various Kinds of Loops in Python
 # Aim: To study and implement for loop, while loop and nested loops.
 
+
 # 1. for loop — squares
 print("Squares using for loop:", end=" ")
 for i in range(1, 6):

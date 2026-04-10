@@ -1,6 +1,7 @@
 # Practical 1 — Introduction To Python And Its Installation
 # Aim: To study the basic introduction of Python and verify its installation.
 
+
 import sys
 import platform
 

@@ -1,9 +1,10 @@
 # File Handling using 'with'
 
+
 # 1. Writing to a file
 with open("student.txt", "w") as file:
-    file.write("Name: Adarsh Singh\n")
-    file.write("Course: Computer Engineering\n")
+    file.write("Name: Sudhanshu Bagde\n")
+    file.write("Course: Computer Science and Engineering\n")
     file.write("Year: 2nd Year\n")
 
 print("Data written successfully!\n")

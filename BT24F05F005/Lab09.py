@@ -1,6 +1,7 @@
 # Practical 9 — Working With Strings, Lists, Tuples and Sets
 # Aim: To study and implement Strings, Lists, Tuples and Sets in Python.
 
+
 # ── STRINGS ──────────────────────────────────────────────────────
 s = "Hello, Python World!"
 print(s.upper())

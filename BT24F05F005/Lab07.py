@@ -1,6 +1,7 @@
 # Practical 7 — Working With Built-in Functions in Python
 # Aim: To study and implement various built-in functions available in Python.
 
+
 nums = [5, 2, 9, 1, 7, 4, 8, 3, 6]
 
 # Mathematical

@@ -1,6 +1,7 @@
 # Practical 8 — Creating User Defined Functions in Python
 # Aim: To create and implement user defined functions in Python.
 
+
 # 1. Basic function
 def area_rectangle(l, w):
     return l * w

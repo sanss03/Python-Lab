@@ -1,6 +1,7 @@
 # Practical 5 — Studying if, if-else, Nested if and if-elif-else Ladder
 # Aim: To study and implement conditional statements in Python.
 
+
 # --- if-elif-else ladder: Grade Calculator ---
 marks = int(input("Enter marks (0-100): "))
 

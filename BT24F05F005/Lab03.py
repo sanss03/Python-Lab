@@ -1,6 +1,7 @@
 # Practical 3 — Working With Variables and Datatypes in Python
 # Aim: To study and implement variables and different data types in Python.
 
+
 roll_no = 101        # int
 pi      = 3.14159    # float
 name    = "Alice"    # str
