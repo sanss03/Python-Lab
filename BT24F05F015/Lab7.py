@@ -1,8 +1,8 @@
-# INPUT AND PRINT FUNCTION
+# Input and print function
 name = input("Enter your name: ")
 print("Welcome,", name)
 
-# TYPE CASTING & TYPE CHECKING
+# Type casting and type checking
 x = "100"
 
 # Type casting
@@ -16,7 +16,7 @@ print("Float:", x_float)
 print("Type of x:", type(x))
 print("Type of x_int:", type(x_int))
 
-# MATH FUNCTIONS
+# Math functions
 import math
 
 num = 16
@@ -26,7 +26,7 @@ print("Power:", math.pow(2, 3))
 print("Ceil:", math.ceil(4.3))
 print("Floor:", math.floor(4.7))
 
-# SEQUENCE FUNCTIONS
+# Sequence functions
 lst = [10, 20, 30, 40, 50]
 
 print("Length:", len(lst))
@@ -34,12 +34,11 @@ print("Max:", max(lst))
 print("Min:", min(lst))
 print("Sum:", sum(lst))
 
-# FUNCTIONAL PROGRAMMING FUNCTIONS
+# Functional programming functions
 numbers = [1, 2, 3, 4, 5]
 
-
 # map()
-squares = list(map(lambda x: x**2, numbers))
+squares = list(map(lambda x: x ** 2, numbers))
 print("Squares:", squares)
 
 # filter()

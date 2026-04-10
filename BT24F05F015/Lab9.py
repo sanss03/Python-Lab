@@ -17,7 +17,6 @@ st = {1, 2, 3}
 st.add(4)
 print(st)
 
-
 # Set operations
 a = {1, 2, 3}
 b = {3, 4, 5}

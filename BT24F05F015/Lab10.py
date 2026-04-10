@@ -1,4 +1,4 @@
-# File Handling
+# File handling
 
 # 1. Writing to a file
 with open("example.txt", "w") as file:
@@ -7,19 +7,18 @@ with open("example.txt", "w") as file:
 
 print("File created and data written successfully.")
 
-# 2. Reading a file
+# 2. Read a file
 with open("example.txt", "r") as file:
     print("Reading from file:")
     print(file.read())
 
-# 3. Appending to a file
+# 3. Append to a file
 with open("example.txt", "a") as file:
     file.write("This line is appended to the file.\n")
 
-
 print("Data appended successfully.")
 
-# 4. Reading updated file
+# 4. Read updated file
 with open("example.txt", "r") as file:
     print("Reading from file after appending:")
     print(file.read())

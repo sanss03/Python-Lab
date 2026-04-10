@@ -1,6 +1,6 @@
 x = 10
 
-# if
+# Simple if
 if x > 5:
     print("x is greater than 5")
 
@@ -10,14 +10,13 @@ if x % 2 == 0:
 else:
     print("Odd")
 
-# nested if
+# Nested if
 if x > 0:
     if x < 20:
         print("x is between 0 and 20")
 
 # if-elif ladder
 marks = 75
-
 
 if marks >= 90:
     print("Grade A")
