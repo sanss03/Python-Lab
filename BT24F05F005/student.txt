@@ -1,4 +1,0 @@
-Name: Sudhanshu Bagde
-Course: Computer Science and Engineering
-Year: 2nd Year
-College: GECA
