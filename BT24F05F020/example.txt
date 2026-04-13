@@ -1,3 +1,0 @@
-This is the first line.
-File handling in Python.
-This line is added later.
